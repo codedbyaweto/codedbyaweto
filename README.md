@@ -1,4 +1,5 @@
 <div style="color: yellow;">
+
 # About Me:
 I’m a Full Stack Web Developer passionate about building fast, scalable, and user-focused applications. I specialize in the MERN stack (MongoDB, Express, React, Node.js) and love crafting clean, maintainable code that brings ideas to life.<br><br>💡 I enjoy solving complex problems, optimizing performance, and exploring how Web3 and blockchain technologies can enhance modern web development.<br><br>🎓 I hold a B.Eng. in Computer Engineering from Covenant University, and I’m constantly learning new tools and frameworks to improve my craft.
 
@@ -12,6 +13,8 @@ I’m a Full Stack Web Developer passionate about building fast, scalable, and u
 ![](https://github-readme-stats.vercel.app/api?username=codedbyaweto&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=codedbyaweto&theme=great-gatsby&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyaweto&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
