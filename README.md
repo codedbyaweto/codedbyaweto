@@ -1,4 +1,3 @@
-# Hi, I'm Aweto Egbaoghene
 # About Me:
 <span style="color:yellow">
 I’m a Full Stack Web Developer passionate about building fast, scalable, and user-focused applications. I specialize in the MERN stack (MongoDB, Express, React, Node.js) and love crafting clean, maintainable code that brings ideas to life.<br><br>💡 I enjoy solving complex problems, optimizing performance, and exploring how Web3 and blockchain technologies can enhance modern web development.<br><br>🎓 I hold a B.Eng. in Computer Engineering from Covenant University, and I’m constantly learning new tools and frameworks to improve my craft.
